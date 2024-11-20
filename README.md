@@ -1,6 +1,6 @@
 - nom : Coulon
 - prénom :Estelle
-- URL Netlify : file:///C:/Users/estel/OneDrive/Bureau/index%20HTML/building_brands.html
+- URL Netlify : https://stupendous-fox-f974e7.netlify.app
 
 # Travail
 
